@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> passionate to be a <b>Machine Learning Engineer </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    A <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> passionate to be a <b>Greate Preson </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
   </em>
  </p>
 
@@ -11,12 +11,12 @@
 <em> Want to know more about me? [Click here](https://shivamlal.github.io/) </em>
 <em>
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 
-- 💼 I’m currently pursuing my final year of Bachelor's degree in Computer Science at [BCE](https://www.bcedgp.ac.in/);
-- 🤔 My interests are with Machine Learning, Natural Language Processing 🖥️, Data Science 📊, Cricket 🏏, etc..;
-- 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
+- 💼 I’m a Data Scientist at Charlee.ai (https://charlee.ai/)
+- 🤔 "I have an interest in AI, Machine Learning, Natural Language Processing 🖥️, Data Science 📊, Cricket 🏏, etc..;
+- 🎬 I love watching animes and movies and I'm a big fan of Naruto, One Piece, Harry Portter   <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via shiv22lal@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/shivamkumards/) to reach me;
 <br/> 
